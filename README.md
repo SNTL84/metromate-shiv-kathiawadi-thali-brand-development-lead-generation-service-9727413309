@@ -3,6 +3,7 @@ meta-description: Shiv Kathiyawadi Thali — Digital Presence & WhatsApp Orderin
 ---
 
 # 🍽️ Shiv Kathiyawadi Thali — Digital Presence & WhatsApp Ordering Launch
+For lead generation services, see the contact information in this README.
 
 ### Palanpur, Surat · MetroMate Performance Marketing Services Case Study
 
@@ -149,3 +150,7 @@ Digital presence & WhatsApp ordering launch for Shiv Kathiyawadi Thali, Palanpur
 ### Topics
 
 `metromate` `sntl84` `case-study` `restaurant-tech` `whatsapp-integration` `landing-page` `surat` `f-and-b` `local-business-digitisation` `performance-marketing`
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
